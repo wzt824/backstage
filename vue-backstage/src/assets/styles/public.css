@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+body, p, ul, ol, dl, dd, h1, h2, h3, h4, h5, h6, td, input, select, option, textarea {
+  margin: 0;
+  padding: 0; }
+
+
+html {
+  /*	font-size: 100px;*/
+  font-size: 14px; }
+
+a {
+  text-decoration: none; }
+
+ol, ul {
+  list-style: none; }
+
+img {
+  border: none;
+  display: block; }
+
